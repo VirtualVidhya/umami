@@ -9,7 +9,7 @@
                 },
                 {
                     "key": "Access-Control-Allow-Origin",
-                    "value": "https://www.vvidhya.com"
+                    "value": "*"
                 },
                 {
                     "key": "Access-Control-Allow-Methods",
