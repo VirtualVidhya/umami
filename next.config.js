@@ -220,6 +220,10 @@ const config = {
         source: '/stats/:match*',
         destination: 'https://vvidhya.vercel.app/:match',
       },
+      {
+        "source": "/api/send",
+        "destination": "https://vvidhya.vercel.app/api/send"
+      }
     ];
   },
   async redirects() {
